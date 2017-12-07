@@ -2,18 +2,15 @@
    "users":[  
       {  
          "id":1,
-         "name":"Vipin",
-
+         "name":"Vipin"
       },
       {  
          "id":2,
-         "name":"Jerin",
-
+         "name":"Jerin"
       },
       {  
          "id":3,
-         "name":"Ashok",
-
+         "name":"Ashok"
       }
    ]
 }
