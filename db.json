@@ -1,12 +1,19 @@
-{
-users:[{
-"id": 1
-  "name": "Vipin",
-},{
-"id": 1
-  "name": "Vipin",
-},{
-"id": 1
-  "name": "Vipin",
-}]
+{  
+   "users":[  
+      {  
+         "id":1,
+         "name":"Vipin",
+
+      },
+      {  
+         "id":2,
+         "name":"Jerin",
+
+      },
+      {  
+         "id":3,
+         "name":"Ashok",
+
+      }
+   ]
 }
